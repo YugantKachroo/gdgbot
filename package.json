@@ -5,6 +5,8 @@
   "author": "Ashwini Purohit <ashwinipurohit@yahoo.in>",
   "description": "A bot for GDG VIT Vellore",
   "dependencies": {
+    "cheerio": "^0.7.0",
+    "githubot": "0.4.x",
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.6",
@@ -20,9 +22,7 @@
     "hubot-slack": "^4.3.4",
     "slack-github-issues": "^1.1.0",
     "underscore": "^1.8.3",
-    "underscore.string": "^3.3.4",
-    "githubot": "0.4.x",
-    "cheerio": "^0.7.0"
+    "underscore.string": "^3.3.4"
   },
   "engines": {
     "node": "0.10.x"

@@ -21,7 +21,8 @@
     "slack-github-issues": "^1.1.0",
     "underscore": "^1.8.3",
     "underscore.string": "^3.3.4",
-    "githubot": "0.4.x"
+    "githubot": "0.4.x",
+    "cheerio": "^0.7.0"
   },
   "engines": {
     "node": "0.10.x"
